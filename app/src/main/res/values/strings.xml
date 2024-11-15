@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="title">Little Lemon</string>
+    <string name="city">Chicago</string>
+    <string name="description">We are a Family owned restaurant, Focused on Traditional recipes served with a modern twist. </string>
+    <string name="order">Order Now</string>
+</resources>
